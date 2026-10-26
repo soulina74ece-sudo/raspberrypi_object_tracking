@@ -77,4 +77,6 @@ raspberry-pi-object-tracking/
 
 ## Acknowledgements
 
-I would like to thank my project mentor for their guidance and technical support throughout the development of this project.
+I would like to express my sincere gratitude to **Prof. Sarang Pendharkar** for his valuable guidance, technical insights, and encouragement throughout the development of this project. His mentorship has been instrumental in strengthening my understanding of embedded systems, computer vision, and hardware-based object tracking.
+
+I am grateful for the opportunity to learn, experiment, and apply theoretical concepts to a practical engineering system under his guidance.
