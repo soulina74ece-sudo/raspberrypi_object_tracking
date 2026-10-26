@@ -59,9 +59,9 @@ raspberry-pi-object-tracking/
 6. **Servo Actuation:** When the object moves outside the dead zone, the Raspberry Pi commands the pan and tilt servos to adjust the camera's orientation.
 7. ## Project Demonstration
 
-Watch the Raspberry Pi-based object tracking system in action.
+Watch the Raspberry Pi-based real-time object tracking system in action.
 
-[▶️ Watch the Object Tracking Demonstration on Google Drive](https://drive.google.com/file/d/1iZM96GdLoZ5bx_5DeD81s4YpopuTcR8f/view?usp=sharing)
+[▶️ Watch the Object Tracking Demonstration](https://drive.google.com/file/d/1Z0hf5qx9rzMDfSdWlR3JLHlFqldanJZ7/view?usp=sharing)
 
 ## Project Structure
 
